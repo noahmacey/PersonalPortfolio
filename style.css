@@ -1,0 +1,67 @@
+body, html {
+    height: 100%;
+}
+
+body {
+    background-color: gray;
+    font-weight: 200;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.intro-left {
+    background: url(/images/img-11.jpg);
+    position: fixed;
+    left: 0;
+    width: 33.3333%;
+    height: 100%;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .intro-left {
+        height: 30vh;
+        margin-bottom: 0;
+        position: relative;
+        width: 100%;
+    }
+}
+
+.avatar {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    margin: 1rem;
+}
+
+.full-height {
+    height: 100%;
+}
+
+section {
+    margin: 5rem;
+    font-size: 1.2rem;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#see-more {
+    float: right;
+    margin-top: 1rem;
+}
+
+.git-hub {
+    width: 45px;
+    height: 45px;
+    margin: 0px 9px 0px 31px;
+  }
+
+  .linked-in {
+    width: 82px;
+    height: 45px;
+    margin-top: 5px;
+    margin-right: 9px;
+  }

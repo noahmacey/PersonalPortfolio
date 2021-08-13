@@ -9,8 +9,9 @@ body {
     color: white;
 }
 
+
 .intro-left {
-    background: url(/images/img-11.jpg);
+    background: url(/Users/noahmacey/Development/freelance/PersonalPortfolio/images/img-11.jpg);
     position: fixed;
     left: 0;
     width: 33.3333%;

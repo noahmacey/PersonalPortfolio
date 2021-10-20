@@ -1,3 +1,3 @@
 # PersonalPortfolio
 
-Here is the link to my live site: https://noahmacey.github.io/PersonalPortfolio/
+Check out my portfolio: https://noahmacey.github.io/PersonalPortfolio/
